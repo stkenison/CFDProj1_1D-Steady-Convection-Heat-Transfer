@@ -1,7 +1,8 @@
-# CFDProj1_1D-Steady-Convection-Heat-Transfer
+# CFD Project 1 | 1-D Steady Convection Heat Transfer
 
 "CFD_Project1.py" is a python script written by Spencer Kenison
-to solve a 1-D, steady heat conduction problem.
+to solve a 1-D, steady heat conduction problem. It was written 
+for MAE 5440 at Utah State University
 
 The script was written using Python 3.11 interpreter but any similar 
 version should function normally.
